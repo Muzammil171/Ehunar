@@ -69,8 +69,8 @@ p {
 }
 
 .short-a:hover {
-  /* color: #064022; */
-  color: white;
+  color: #064022;
+  /* color: white; */
   background-color: #00ff00;
   border: solid 2px #00ff00;
 }
